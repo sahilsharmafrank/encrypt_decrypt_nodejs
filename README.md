@@ -1,4 +1,4 @@
-# encrypt_decrypt_nodejs
+# encrypt_decrypt
 
 A server side module to encrypot and decrypt using crypto.
 Compatibility with php as well.
@@ -41,3 +41,5 @@ console.log('Decrypted Value : ', decryptVal);
 
 ```
 
+#Note : 
+  In order to run test cases just install dev--dependencies and run make test. 
